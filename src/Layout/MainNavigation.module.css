@@ -1,0 +1,65 @@
+.nav {
+  padding: 1rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home {
+  color: #e8bf5a;
+}
+
+.nav h2 {
+  font-weight: 500;
+}
+
+.nav h1 {
+  font-weight: 400;
+}
+
+.link-container {
+  display: flex;
+  gap: 1rem;
+}
+
+.link-to {
+  text-decoration: none;
+  background-color: none;
+  border: none;
+  color: black;
+}
+
+.icon {
+  color: #aaaaaa;
+}
+
+.link:link,
+.link:visited {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  background-color: none;
+  border: none;
+}
+
+.link:hover {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  text-decoration: underline;
+  color: black;
+  background-color: none;
+  border: none;
+}
+
+.active {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  text-decoration: underline;
+  color: black;
+  background-color: none;
+  border: none;
+}

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "asm3-client-74ece",
+    "asm3-client": "asm3-client-74ece"
+  },
+  "targets": {},
+  "etags": {}
+}
